@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "PersistentChangeLogCreator": {
+      "commandName": "Project",
+      "commandLineArgs": "\"G:\\SteamLibrary\\steamapps\\common\\Kerbal Space Program\\saves\\RSS-RO-RP1\""
+    }
+  }
+}
